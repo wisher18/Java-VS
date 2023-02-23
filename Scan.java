@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import javax.swing.event.SwingPropertyChangeSupport;
-
 public class Scan {
     public static void main(String[] args) {
         
